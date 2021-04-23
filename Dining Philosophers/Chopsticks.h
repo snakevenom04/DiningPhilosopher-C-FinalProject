@@ -1,6 +1,5 @@
-#ifndef Chopsticks_h
-#define Chopsticks_h
-
+#ifndef CHOPSTICKS_H
+#define CHOPSTICKS_H
 #include <mutex>
 
 struct chopstick
