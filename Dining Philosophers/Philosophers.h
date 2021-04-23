@@ -1,3 +1,7 @@
+
+#ifndef PHILOSOPHERS_H
+#define PHILOSOPHERS_H
+
 #include "Table.h"
 #include <random>
 #include <string>
@@ -28,3 +32,8 @@ public:
 
  
 };
+
+#endif
+
+
+
