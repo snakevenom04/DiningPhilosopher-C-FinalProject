@@ -1,3 +1,7 @@
+#ifndef TABLE_H
+#define TABLE_H
+
+
 #include "Chopsticks.h"
 #include <array>
 #include <atomic>
@@ -9,3 +13,4 @@ struct table
 	std::array<chopstick, 5> chopsticks;
 };
 
+#endif
